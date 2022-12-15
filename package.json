@@ -1,7 +1,7 @@
 {
   "name": "wm-page-builder",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "Drag and Drop page builder",
   "author": "Forid Pathan",
   "license": "MIT",
   "repository": "https://github.com/webmanza/page-builder.git",
